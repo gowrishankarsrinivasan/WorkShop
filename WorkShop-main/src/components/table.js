@@ -3,6 +3,8 @@ import React from "react";
 import { useState, useEffect } from "react";
 import './table.css';
 
+
+
 export default function Table1() {
   const [data, setData] = useState([]);
 
